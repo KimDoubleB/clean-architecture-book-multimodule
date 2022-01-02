@@ -1,0 +1,8 @@
+rootProject.name = 'server'
+
+include 'adapter'
+include 'application'
+include 'common'
+include 'domain'
+include 'server'
+
